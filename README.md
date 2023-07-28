@@ -1,10 +1,10 @@
-# Simple-Editor
+# ALXedit
 
-[![GitHub Stars](https://img.shields.io/github/stars/ALX-Students-Contribution/Simple-Editor?style=social)](https://github.com/ALX-Students-Cotribution/Simple-Editor/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ALX-Students-Contribution/ALXedit?style=social)](https://github.com/ALX-Students-Cotribution/ALXedit/stargazers)
 
-🚀 Welcome to Simple-Editor! ✨
+🚀 Welcome to ALXedit! ✨
 
-Simple-Editor is a beautifully designed, beginner-friendly, and fully open-source text editor crafted with love by the ALX student community. Our mission is to provide programmers with an intuitive and customizable editing experience while fostering a collaborative ecosystem of functionality through an extensible plugin system.
+ALXedit is a beautifully designed, beginner-friendly, and fully open-source text editor crafted with love by the ALX student community. Our mission is to provide programmers with an intuitive and customizable editing experience while fostering a collaborative ecosystem of functionality through an extensible plugin system.
 
 
 ## Key Features
@@ -35,7 +35,7 @@ To get started with Simple-Editor, follow these steps:
 
 🎉 We welcome contributions from developers of all backgrounds. Whether you're an experienced coder or just starting your journey, your ideas and contributions are invaluable to us. To contribute to Simple-Editor, follow these steps:
 
-1. 🔍 Check out the open issues and pick one that interests you or suggest a new feature.
+1. 🔍 Check out the open issues and pick one that interests you or make a suggestion for a new feature.
 2. 🛠️ Fork the repository and create your branch from `main`.
 3. 📝 Make your changes, add tests if applicable, and ensure the code quality.
 4. ✔️ Create a pull request describing your changes and improvements.
@@ -57,6 +57,6 @@ Help us make Simple-Editor the go-to text editor for programmers! Don't forget t
 
 We have an active and dynamic community of contributors. Feel free to join our discussions, seek help, or share your ideas on our GitHub Discussions page.
 
-[👉 Join the Discussions](https://github.com/ALX-Students-Contribution/Simple-Editor/discussions)
+[👉 Join the Discussions](https://github.com/ALX-Students-Contribution/ALXedit/discussions)
 
 Let's code together and build something incredible! 🚀 Happy coding! 🚀
